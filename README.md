@@ -38,9 +38,9 @@ Schools onboard with a join code and publish their calendar. Families then post 
 ### [GreenGenius](https://github.com/virajrungta/ggcode)
 
 **A plant pot that reports back, and waters itself.**
-An ESP32 board reads soil moisture, temperature, humidity and light, then streams them over MQTT to a FastAPI and TimescaleDB backend. The app pairs over Bluetooth, identifies the plant from a photo, and scores its health against that species' ideal ranges. A pump closes the loop.
+A smart pot that keeps an eye on your plant for you. It tracks how the plant is doing, tells you on your phone when something's off, and can water it on its own, so houseplants stop dying from guesswork.
 
-<sub><code>ESP32 firmware</code> · <code>BLE + MQTT</code> · <code>FastAPI</code> · <code>Flutter</code> · <code>custom PCB</code></sub>
+<sub><code>hardware</code> · <code>mobile app</code> · <code>IoT</code></sub>
 
 </td>
 </tr>
