@@ -1,4 +1,4 @@
-<a href="https://code2coder.org"><img src="assets/banner.png" alt="Viraj Rungta: I build things people actually use, for classrooms, school carpools, houseplants and memory care." width="100%"></a>
+<a href="https://code2coder.org"><img src="assets/banner.png" alt="Viraj Rungta: I build things people actually use, for classrooms, school carpools and houseplants." width="100%"></a>
 
 <table>
 <tr>
@@ -32,24 +32,15 @@ Schools onboard with a join code and publish their calendar. Families then post 
 
 <a href="https://github.com/virajrungta/ggcode"><img src="assets/greengenius.png" alt="GreenGenius plant dashboard" width="100%"></a>
 
+</td>
+<td width="50%" valign="middle">
+
 ### [GreenGenius](https://github.com/virajrungta/ggcode)
 
 **A plant pot that reports back, and waters itself.**
 An ESP32 board reads soil moisture, temperature, humidity and light, then streams them over MQTT to a FastAPI and TimescaleDB backend. The app pairs over Bluetooth, identifies the plant from a photo, and scores its health against that species' ideal ranges. A pump closes the loop.
 
 <sub><code>ESP32 firmware</code> · <code>BLE + MQTT</code> · <code>FastAPI</code> · <code>Flutter</code> · <code>custom PCB</code></sub>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="assets/carmen.png" alt="CARMEN adaptive loop: clinical games, motivation model, adaptive policy, robot" width="100%">
-
-### CARMEN
-
-**A cognitive-care robot that adapts to the person in front of it.**
-Built at SFSU's PHAST Lab for older adults with mild cognitive impairment. Eight clinical memory and attention games feed a knowledge-graph attention model of engagement, and a reinforcement-learning policy picks what the robot does next.
-
-<sub><code>PyTorch</code> · <code>reinforcement learning</code> · <code>Flask</code> · <code>research, private repo</code></sub>
 
 </td>
 </tr>
