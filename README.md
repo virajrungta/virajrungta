@@ -1,19 +1,62 @@
-<h1 align="center">Hi 👋, I'm Viraj</h1>
-<h3 align="center">A passionate student interested in robotics and AI.</h3>
+<a href="https://code2coder.org"><img src="assets/banner.png" alt="Viraj Rungta: I build things people actually use, for classrooms, school carpools, houseplants and memory care." width="100%"></a>
 
-- 🔭 I’m currently working on **GreenGenius and Code2Coder**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🌱 I’m currently learning **ML**
+<a href="https://code2coder.org"><img src="assets/code2coder.png" alt="Code2Coder landing page" width="100%"></a>
 
-- 🤝 I’m looking for help with **finding research labs and other oppurtunities.**
+### [Code2Coder](https://code2coder.org)
 
-- 📫 How to reach me **virajrungta@gmail.com**
+**Free Python lessons that run in the browser.**
+A real editor, lessons that run the moment you press play, and an AI tutor that gives hints tuned to your code instead of handing over the answer. Python runs on-device through WebAssembly, so there's nothing to install and no account needed. Free for every student and school.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="(https://www.linkedin.com/in/viraj-r711/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viraj rungta" height="30" width="40" /></a>
-<a href="https://instagram.com/get2vj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="get2vj" height="30" width="40" /></a>
+<sub><code>Pyodide</code> · <code>Gemini</code> · <code>live at code2coder.org</code> · <a href="https://github.com/virajrungta/CodeToCoder">source</a></sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/virajrungta/go_glyder"><img src="assets/goglyder.png" alt="GoGlyder app screens" width="100%"></a>
+
+### [GoGlyder](https://github.com/virajrungta/go_glyder)
+
+**Carpooling built around a school community.**
+Schools onboard with a join code and publish their calendar. Families then post or find rides along their route, see the detour before they commit, and message the driver in the app. Fewer cars at pickup and fewer hours lost to driving.
+
+<sub><code>Flutter</code> · <code>Firebase</code> · <code>Google Maps</code> · <code>iOS + Android</code></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/virajrungta/ggcode"><img src="assets/greengenius.png" alt="GreenGenius plant dashboard" width="100%"></a>
+
+### [GreenGenius](https://github.com/virajrungta/ggcode)
+
+**A plant pot that reports back, and waters itself.**
+An ESP32 board reads soil moisture, temperature, humidity and light, then streams them over MQTT to a FastAPI and TimescaleDB backend. The app pairs over Bluetooth, identifies the plant from a photo, and scores its health against that species' ideal ranges. A pump closes the loop.
+
+<sub><code>ESP32 firmware</code> · <code>BLE + MQTT</code> · <code>FastAPI</code> · <code>Flutter</code> · <code>custom PCB</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="assets/carmen.png" alt="CARMEN adaptive loop: clinical games, motivation model, adaptive policy, robot" width="100%">
+
+### CARMEN
+
+**A cognitive-care robot that adapts to the person in front of it.**
+Built at SFSU's PHAST Lab for older adults with mild cognitive impairment. Eight clinical memory and attention games feed a knowledge-graph attention model of engagement, and a reinforcement-learning policy picks what the robot does next.
+
+<sub><code>PyTorch</code> · <code>reinforcement learning</code> · <code>Flask</code> · <code>research, private repo</code></sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/viraj-r711/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:virajrungta@gmail.com">virajrungta@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://code2coder.org">code2coder.org</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
