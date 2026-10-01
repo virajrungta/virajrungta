@@ -44,6 +44,23 @@ A smart pot that keeps an eye on your plant for you. It tracks how the plant is 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="middle">
+
+### [PCB Design for Claude Code](https://github.com/virajrungta/pcb-claude-plugin)
+
+**From idea to board.**
+Describe the board you want in plain English. It asks a few questions, picks real parts, designs the schematic and layout, checks the result for mistakes and electrical noise, and hands you the files a factory needs to build it. It gets better with every board it designs. Free and open source.
+
+<sub><code>Claude Code plugin</code> · <code>KiCad</code> · <code>electronics</code> · <a href="https://github.com/virajrungta/pcb-claude-plugin">source</a></sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/virajrungta/pcb-claude-plugin"><img src="assets/pcb-plugin.png" alt="A circuit board designed by the PCB Design plugin" width="100%"></a>
+
+</td>
+</tr>
 </table>
 
 <p align="center">
