@@ -1,4 +1,4 @@
-<a href="https://code2coder.org"><img src="assets/banner.png" alt="Viraj Rungta: I build things people actually use, for classrooms, school carpools and houseplants." width="100%"></a>
+<a href="https://code2coder.org"><img src="assets/banner.png" alt="Viraj Rungta: I build things people actually use, for classrooms, school carpools, houseplants and circuit boards." width="100%"></a>
 
 <table>
 <tr>
@@ -30,12 +30,12 @@ Schools onboard with a join code and publish their calendar. Families then post 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/virajrungta/ggcode"><img src="assets/greengenius.png" alt="GreenGenius plant dashboard" width="100%"></a>
+<a href="https://github.com/virajrungta/GreenGenius"><img src="assets/greengenius.png" alt="GreenGenius plant dashboard" width="100%"></a>
 
 </td>
 <td width="50%" valign="middle">
 
-### [GreenGenius](https://github.com/virajrungta/ggcode)
+### [GreenGenius](https://github.com/virajrungta/GreenGenius)
 
 **A plant pot that reports back, and waters itself.**
 A smart pot that keeps an eye on your plant for you. It tracks how the plant is doing, tells you on your phone when something's off, and can water it on its own, so houseplants stop dying from guesswork.
