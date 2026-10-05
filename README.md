@@ -1,4 +1,4 @@
-<a href="https://code2coder.org"><img src="assets/banner.png" alt="Viraj Rungta: I build things people actually use, for classrooms, school carpools, houseplants and circuit boards." width="100%"></a>
+<a href="https://code2coder.org"><img src="assets/banner.png" alt="Viraj Rungta: I build things people actually use, for classrooms, school carpools, houseplants, circuit boards and the operating room." width="100%"></a>
 
 <table>
 <tr>
@@ -58,6 +58,23 @@ A plugin for Claude Code: describe the board you want in plain English. It asks 
 <td width="50%" valign="top">
 
 <a href="https://github.com/virajrungta/pcb-claude-plugin"><img src="assets/pcb-plugin.png" alt="PCB Design Plugin for Claude Code: a request in Claude Code and the circuit board it produced" width="100%"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="assets/surgivision.png" alt="SurgiVision: a trained model outlining the gallbladder, liver, fat and a grasper on a laparoscopic surgery frame, with the simulated smart-glasses display" width="100%">
+
+</td>
+<td width="50%" valign="middle">
+
+### SurgiVision
+
+**An AI assistant for gallbladder surgery.**
+Before the operation it scores the case's risk from the patient's details. During it, a model I trained on real surgery video outlines the liver, gallbladder and instruments live, and simulated smart glasses speak short safety checks like "Are you sure the critical view is met before you clip?". Afterwards it writes up what happened, step by step. A research prototype, not for clinical use.
+
+<sub><code>PyTorch</code> · <code>FastAPI</code> · <code>React</code> · <code>ElevenLabs</code> · <code>GLM 5.3</code> · built with Anshuman Kumar</sub>
 
 </td>
 </tr>
