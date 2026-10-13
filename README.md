@@ -78,6 +78,23 @@ Before the operation it scores the case's risk from the patient's details. Durin
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="middle">
+
+### [SightSense](https://github.com/ConnorSawaya/SightSense)
+
+**Autonomous walking guidance for people who are blind.**
+A self-steering cane that sees the way ahead for you. Say "take me to the door", and a motorized wheel at its tip steers you there on its own, around chairs, people and walls. An iPhone on the cane sends camera and LiDAR to an ASUS GX10, which picks a clear path and runs a local vision model that finds objects, reads signs and answers questions. A Raspberry Pi drives the wheel. Built at the UCSC AI Hackathon. An experimental prototype.
+
+<sub><code>iOS + LiDAR</code> · <code>YOLO</code> · <code>Qwen3-VL</code> · <code>Raspberry Pi</code> · <code>local AI</code> · built with Connor Sawaya, Aryan Kulkarni and Anshuman Kumar</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ConnorSawaya/SightSense"><img src="assets/sightsense.png" alt="SightSense live view: the cane's camera labels a chair, backpack and person with their distances, the LiDAR map marks the clear path, and the cane says go straight" width="100%"></a>
+
+</td>
+</tr>
 </table>
 
 <p align="center">
