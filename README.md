@@ -50,14 +50,14 @@ Schools onboard with a join code and publish their calendar. Families post or fi
 <tr>
 <td width="50%" valign="middle">
 
-<a href="https://github.com/virajrungta/GreenGenius"><img src="assets/greengenius.png" alt="GreenGenius plant dashboard" width="100%"></a>
+<a href="https://greengeniusai.github.io/"><img src="assets/greengenius-site.png" alt="GreenGenius landing page: the v3 smart plant pot in 3D with labelled soil probes, water window and electronics bay" width="100%"></a>
 
 </td>
 <td width="50%" valign="middle">
 
 <sub><b><code>03</code> &nbsp;IOT · HARDWARE</b></sub>
 
-### [GreenGenius](https://github.com/virajrungta/GreenGenius)
+### [GreenGenius](https://greengeniusai.github.io/)
 
 **A plant pot that reports back, and waters itself.**
 
@@ -65,7 +65,7 @@ It tracks how your plant is doing, tells your phone when something's off, and wa
 
 ![Hardware](https://img.shields.io/badge/Hardware-1f2328?style=flat-square) ![IoT](https://img.shields.io/badge/IoT-1f2328?style=flat-square) ![Mobile app](https://img.shields.io/badge/Mobile%20app-1f2328?style=flat-square)
 
-<sub>**[Source ↗](https://github.com/virajrungta/GreenGenius)**</sub>
+<sub>**[Live ↗](https://greengeniusai.github.io/)** &nbsp;·&nbsp; **[App source ↗](https://github.com/virajrungta/GreenGenius)** &nbsp;·&nbsp; **[Site source ↗](https://github.com/GreenGeniusAI/greengeniusai.github.io)**</sub>
 
 </td>
 </tr>
@@ -74,20 +74,20 @@ It tracks how your plant is doing, tells your phone when something's off, and wa
 
 <sub><b><code>04</code> &nbsp;ELECTRONICS · CLAUDE PLUGIN</b></sub>
 
-### [PCB Design Plugin](https://github.com/virajrungta/pcb-claude-plugin)
+### [Viaduct](https://viaduct-pcb.github.io/)
 
-**From idea to board.**
+**Describe a circuit board. Get one you can order.**
 
-A Claude Code plugin: describe the board you want in plain English. It asks a few questions, picks real parts, designs the schematic and layout, checks for mistakes and electrical noise, and hands you the files a factory needs. It gets better with every board. Free and open source.
+A Claude Code plugin for PCB design: describe the board you want in plain English. It asks a few questions, picks real parts, designs the schematic and layout, checks for mistakes and electrical noise, and hands you the files a factory needs. It gets better with every board. Free and open source.
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-1f2328?style=flat-square&logo=claude&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-1f2328?style=flat-square&logo=kicad&logoColor=white) ![Electronics](https://img.shields.io/badge/Electronics-1f2328?style=flat-square)
 
-<sub>**[Source ↗](https://github.com/virajrungta/pcb-claude-plugin)**</sub>
+<sub>**[Live ↗](https://viaduct-pcb.github.io/)** &nbsp;·&nbsp; **[Source ↗](https://github.com/virajrungta/viaduct)**</sub>
 
 </td>
 <td width="50%" valign="middle">
 
-<a href="https://github.com/virajrungta/pcb-claude-plugin"><img src="assets/pcb-plugin.png" alt="PCB Design Plugin for Claude Code: a request in Claude Code and the circuit board it produced" width="100%"></a>
+<a href="https://viaduct-pcb.github.io/"><img src="assets/pcb-plugin.png" alt="Viaduct, a PCB design plugin for Claude Code: a request in Claude Code and the circuit board it produced" width="100%"></a>
 
 </td>
 </tr>
