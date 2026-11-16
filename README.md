@@ -1,4 +1,6 @@
-<a href="https://code2coder.org"><img src="assets/banner.png" alt="Viraj Rungta: I build things people actually use, for classrooms, school carpools, houseplants, circuit boards, the operating room and the sidewalk." width="100%"></a>
+<a href="https://code2coder.org"><img src="assets/banner.png" alt="Viraj Rungta: I build things people actually use, for classrooms, school carpools, houseplants, circuit boards, the operating room and the sidewalk. Selected work: Code2Coder, GoGlyder, GreenGenius, Viaduct, SurgiVision, SightSense." width="100%"></a>
+
+<p align="center"><sub><b>LIVE</b> &nbsp; <a href="https://code2coder.org">Code2Coder</a> &nbsp;·&nbsp; <a href="https://viaduct-pcb.github.io/">Viaduct</a> &nbsp;·&nbsp; <a href="https://greengeniusai.github.io/">GreenGenius</a> &nbsp;·&nbsp; <a href="https://surgivision.github.io/">SurgiVision</a></sub></p>
 
 <table>
 <tr>
@@ -94,24 +96,24 @@ A Claude Code plugin for PCB design: describe the board you want in plain Englis
 <tr>
 <td width="50%" valign="middle">
 
-<img src="assets/surgivision.png" alt="SurgiVision: a trained model outlining the gallbladder, liver, fat and a grasper on a laparoscopic surgery frame, with the simulated smart-glasses display" width="100%">
+<a href="https://surgivision.github.io/"><img src="assets/surgivision-site.png" alt="SurgiVision landing page: a wireframe operating room where a surgeon picks up the SurgiVision HUD glasses before the scroll dives inside them" width="100%"></a>
 
 </td>
 <td width="50%" valign="middle">
 
 <sub><b><code>05</code> &nbsp;HEALTHCARE · AI VISION</b></sub>
 
-### SurgiVision
+### [SurgiVision](https://surgivision.github.io/)
 
-**An AI assistant for gallbladder surgery.**
+**Smart glasses and an AI assistant for gallbladder surgery.**
 
-Before the operation it scores the case's risk. During it, a model I trained on real surgery video outlines the liver, gallbladder and instruments live, and simulated smart glasses speak safety checks like *"Is the critical view met before you clip?"* Afterwards it writes up what happened. A research prototype, not for clinical use.
+Before the operation it scores the case's risk. During it, a model I trained on real surgery video outlines the liver, gallbladder and instruments live, and simulated smart glasses speak safety checks like *"Is the critical view met before you clip?"* Afterwards it writes up what happened. I also designed the HUD glasses: an ESP32 camera on one arm and a micro-OLED folded into the right eye through a beam-splitter cube. A research prototype, not for clinical use.
 
 ![Full Sponsorship, Dublin HackX](https://img.shields.io/badge/%F0%9F%8F%86%20Full%20Sponsorship-Dublin%20HackX-F5B700?style=flat-square&labelColor=1f2328)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1f2328?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-1f2328?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-1f2328?style=flat-square&logo=elevenlabs&logoColor=white)
 
-<sub>Built with Anshuman Kumar</sub>
+<sub>**[Live ↗](https://surgivision.github.io/)** &nbsp;·&nbsp; **[Simulator ↗](https://surgivision.github.io/app/pov)** &nbsp;·&nbsp; Built with Anshuman Kumar</sub>
 
 </td>
 </tr>
