@@ -6,7 +6,7 @@
 <tr>
 <td width="50%" valign="middle">
 
-<a href="https://code2coder.org"><img src="assets/code2coder.png" alt="Code2Coder landing page" width="100%"></a>
+<a href="https://code2coder.org"><img src="assets/code2coder.webp" alt="Scrolling through code2coder.org: the hero with a live Python editor typing code, then the lesson path" width="100%"></a>
 
 </td>
 <td width="50%" valign="middle">
@@ -45,14 +45,14 @@ Schools onboard with a join code and publish their calendar. Families post or fi
 </td>
 <td width="50%" valign="middle">
 
-<a href="https://github.com/virajrungta/go_glyder"><img src="assets/goglyder.png" alt="GoGlyder app screens" width="100%"></a>
+<a href="https://github.com/virajrungta/go_glyder"><img src="assets/goglyder.webp" alt="GoGlyder app home screen: quick actions to find a ride, community and messages, and the next school event" width="100%"></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="middle">
 
-<a href="https://greengeniusai.github.io/"><img src="assets/greengenius-site.png" alt="GreenGenius landing page: the v3 smart plant pot in 3D with labelled soil probes, water window and electronics bay" width="100%"></a>
+<a href="https://greengeniusai.github.io/"><img src="assets/greengenius.webp" alt="Scrolling through greengeniusai.github.io: the smart pot, then sense, decide and water" width="100%"></a>
 
 </td>
 <td width="50%" valign="middle">
@@ -89,14 +89,14 @@ A Claude Code plugin for PCB design: describe the board you want in plain Englis
 </td>
 <td width="50%" valign="middle">
 
-<a href="https://viaduct-pcb.github.io/"><img src="assets/pcb-plugin.png" alt="Viaduct, a PCB design plugin for Claude Code: a request in Claude Code and the circuit board it produced" width="100%"></a>
+<a href="https://viaduct-pcb.github.io/"><img src="assets/viaduct.webp" alt="Scrolling through viaduct-pcb.github.io: the demo, then circuit boards Viaduct designed from a written description" width="100%"></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="middle">
 
-<a href="https://surgivision.github.io/"><img src="assets/surgivision-site.png" alt="SurgiVision landing page: a wireframe operating room where a surgeon picks up the SurgiVision HUD glasses before the scroll dives inside them" width="100%"></a>
+<a href="https://surgivision.github.io/"><img src="assets/surgivision.webp" alt="Scrolling through surgivision.github.io: a wireframe surgeon puts on the HUD glasses, then the view dives into the glasses and their optics" width="100%"></a>
 
 </td>
 <td width="50%" valign="middle">
@@ -137,7 +137,7 @@ A self-steering cane that sees the way ahead for you. Say *"take me to the door"
 </td>
 <td width="50%" valign="middle">
 
-<a href="https://github.com/ConnorSawaya/SightSense"><img src="assets/sightsense.png" alt="SightSense live view: the cane's camera labels a chair, backpack and person with their distances, the LiDAR map marks the clear path, and the cane says go straight" width="100%"></a>
+<a href="https://github.com/ConnorSawaya/SightSense"><img src="assets/sightsense.webp" alt="SightSense dashboard during a real test run: the camera with door detections, the LiDAR obstacle view, the steering prompt and wheel clearance per heading" width="100%"></a>
 
 </td>
 </tr>
