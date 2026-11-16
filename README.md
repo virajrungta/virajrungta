@@ -1,4 +1,4 @@
-<a href="https://code2coder.org"><img src="assets/banner.png" alt="Viraj Rungta: I build things people actually use, for classrooms, school carpools, houseplants, circuit boards, the operating room and the sidewalk. Selected work: Code2Coder, GoGlyder, GreenGenius, Viaduct, SurgiVision, SightSense." width="100%"></a>
+<a href="https://code2coder.org"><img src="assets/banner-2026-11.png" alt="Viraj Rungta: I build things people actually use, for classrooms, school carpools, houseplants, circuit boards, the operating room and the sidewalk. Selected work: Code2Coder, GoGlyder, GreenGenius, Viaduct, SurgiVision, SightSense." width="100%"></a>
 
 <p align="center"><sub><b>LIVE</b> &nbsp; <a href="https://code2coder.org">Code2Coder</a> &nbsp;·&nbsp; <a href="https://viaduct-pcb.github.io/">Viaduct</a> &nbsp;·&nbsp; <a href="https://greengeniusai.github.io/">GreenGenius</a> &nbsp;·&nbsp; <a href="https://surgivision.github.io/">SurgiVision</a></sub></p>
 
